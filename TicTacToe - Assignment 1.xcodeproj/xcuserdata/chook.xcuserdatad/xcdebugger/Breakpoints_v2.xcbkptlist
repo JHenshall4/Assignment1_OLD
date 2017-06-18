@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicTacToe - Assignment 1/ViewController.swift"
+            timestampString = "512716692.750074"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe___Assignment_1.ViewController.label.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "TicTacToe - Assignment 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chook/Desktop/TicTacToe%20-%20Assignment%201/TicTacToe%20-%20Assignment%201/ViewController.swift"
+                  timestampString = "512387006.177842"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe___Assignment_1.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; TicTacToe___Assignment_1.ViewController"
+                  moduleName = "TicTacToe - Assignment 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chook/Desktop/TicTacToe%20-%20Assignment%201/TicTacToe%20-%20Assignment%201/ViewController.swift"
+                  timestampString = "512387006.180647"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "759">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe___Assignment_1.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TicTacToe___Assignment_1.ViewController&gt;"
+                  moduleName = "TicTacToe - Assignment 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chook/Desktop/TicTacToe%20-%20Assignment%201/TicTacToe%20-%20Assignment%201/ViewController.swift"
+                  timestampString = "512387006.183805"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "659">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicTacToe - Assignment 1/ViewController.swift"
+            timestampString = "512716692.750074"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe___Assignment_1.ViewController.winningCombinations.getter : Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "TicTacToe - Assignment 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chook/Desktop/TicTacToe%20-%20Assignment%201/TicTacToe%20-%20Assignment%201/ViewController.swift"
+                  timestampString = "512387006.192215"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe___Assignment_1.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TicTacToe___Assignment_1.ViewController&gt;"
+                  moduleName = "TicTacToe - Assignment 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chook/Desktop/TicTacToe%20-%20Assignment%201/TicTacToe%20-%20Assignment%201/ViewController.swift"
+                  timestampString = "512387006.198042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
